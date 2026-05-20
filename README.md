@@ -31,7 +31,7 @@ A web app that scans code for common security vulnerabilities. Built together wi
 
 ---
 
-### [Synthesizer](https://gitlab.mi.hdm-stuttgart.de/sg213/synthesizer) — JavaFX Application *(3rd semester, team project)*
+### [Synthesizer](https://github.com/IlaydaAkpinar/Synthesizer) — JavaFX Application *(3rd semester, team project)*
 
 A modular audio synthesis application built with a group. Features oscillator, waveform options, filters, a virtual keyboard, and preset save/load — all in a JavaFX UI.
 
