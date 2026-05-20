@@ -47,14 +47,14 @@ A small gamified web experience with pixel-art animations, scene transitions, an
 
 ```json
 {
-  "languages": ["Java", "JavaScript", "HTML", "CSS", "SQL", "Linux (basics)"],
+  "languages": ["Java", "JavaScript", "HTML", "CSS", "SQL"],
   "security": {
     "exposure": ["SQL Injection", "XSS", "CSRF", "SSRF", "Broken Access Control",
                  "Cryptographic Failures", "Input Validation", "Secure Coding"],
     "note": "via coursework and the Safe Code Assistant project",
     "self-study": ["Hack The Box beginner labs", "OWASP Top 10", "web security basics"]
   },
-  "tools": ["Git & GitHub", "IntelliJ IDEA", "JavaFX", "Webpack"]
+"tools":  ["Git (GitHub, GitLab)", "IntelliJ IDEA", "JavaFX", "Webpack", "Linux (CLI, networking, permissions basics)"]
 }
 ```
 
