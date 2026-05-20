@@ -37,7 +37,7 @@ A modular audio synthesis application built with a group. Features oscillator, w
 
 ---
 
-### [Birthday RPG Quest](https://github.com/IlaydaAkpinar) — Interactive Web Experience *(personal project)*
+### [Birthday RPG](https://github.com/IlaydaAkpinar/Birthday-RPG#) — Interactive Web Experience *(personal project)*
 
 A small gamified web experience with pixel-art animations, scene transitions, and branching story logic. Good practice for DOM manipulation and event-driven JavaScript.
 
