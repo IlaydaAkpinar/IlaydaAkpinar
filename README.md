@@ -4,7 +4,7 @@
 
 <p><b>Media Informatics student @ HdM Stuttgart</b> · interested in IT security & penetration testing</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilayda%20Akpinar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilayda-akpinar-59a24220b/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilayda%20Akpinar-0A66C2?style=flat-square&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ilayda-akpinar/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-IlaydaAkpinar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IlaydaAkpinar/IlaydaAkpinar)&nbsp;&nbsp;
 [![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://hackthebox.com)&nbsp;&nbsp;
 [![Mail](https://img.shields.io/badge/Mail-ilayda.akpinar%40outlook.de-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ilayda.akpinar@outlook.de)
