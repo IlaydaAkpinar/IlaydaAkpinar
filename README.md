@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Ilayda</h1>
 
-<p><b>Media Informatics student @ HdM Stuttgart</b> · interested in IT security & penetration testing</p>
+<p><b>Media Informatics student @<a href="https://hdm-stuttgart.de/studienangebot/bachelor/medieninformatik/">HdM Stuttgart</a></b> · interested in IT security & penetration testing</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilayda%20Akpinar-0A66C2?style=flat-square&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ilayda-akpinar/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-IlaydaAkpinar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IlaydaAkpinar/IlaydaAkpinar)&nbsp;&nbsp;
@@ -15,13 +15,23 @@
 
 ## `> cat about.txt`
 
-I'm in my 5th semester of Media Informatics and working toward a career in IT security. My background is in software development — which gives me a useful starting point for understanding how systems can fail.
+I'm in my 6th semester of Media Informatics and working toward a career in IT security. My background is in software development — which gives me a useful starting point for understanding how systems can fail.
 
-Through university I've been part of team projects where security was a central theme, and outside of class I'm working through Hack The Box labs to build more practical hands-on experience. I'm still early in the security path, but learning deliberately.
+Through university, I've worked on team projects where security was a central theme, while my personal projects give me the opportunity to explore security concepts independently and apply them in practice. I'm still early in my security journey, but I'm actively building my knowledge through hands-on projects and deliberate self-study.
 
 ---
 
 ## `> ls ./projects`
+
+### [MiniBank](https://github.com/IlaydaAkpinar/MiniBank) — Secure Banking Web Application *(personal project)*
+
+A small banking web application built to explore and practice secure web development in a realistic application context. It includes authentication, account management, money transfers, transaction history, and password reset functionality.
+
+The project serves as a hands-on learning environment for independently exploring common web security vulnerabilities, testing different security measures, and continuously improving the application's security through additional features and security-focused tests.
+
+*still in development*
+
+---
 
 ### [Safe Code Assistant](https://github.com/IlaydaAkpinar/Safe-Code-Assistant) — Java Web Application *(5th semester, team project)*
 
@@ -48,13 +58,40 @@ A small gamified web experience with pixel-art animations, scene transitions, an
 ```json
 {
   "languages": ["Java", "JavaScript", "HTML", "CSS", "SQL"],
+  
   "security": {
-    "exposure": ["SQL Injection", "XSS", "CSRF", "SSRF", "Broken Access Control",
-                 "Cryptographic Failures", "Input Validation", "Secure Coding"],
-    "note": "via coursework and the Safe Code Assistant project",
-    "self-study": ["Hack The Box beginner labs", "OWASP Top 10", "web security basics"]
-  },
-"tools":  ["Git (GitHub, GitLab)", "IntelliJ IDEA", "JavaFX", "Webpack", "Linux (CLI, networking, permissions basics)"]
+    "exposure":[
+      "SQL Injection",
+      "XSS",
+      "CSRF",
+      "SSRF",
+      "Broken Access Control",
+      "Cryptographic Failures",
+      "Input Validation",
+      "Authentication & Authorization",
+      "Secure Coding"
+    ],
+    "coursework": [
+      "Safe Code Assistant",
+      "Application Security",
+      "IT Security"
+    ],
+    "self-study": [
+      "OWASP Top 10",
+      "Web Security",
+      "Secure Web Development",
+      "Security Testing"
+    ]
+},
+  "tools": [
+      "Git (GitHub, GitLab)",
+      "IntelliJ IDEA",
+      "PostgreSQL",
+      "Node.js",
+      "Webpack",
+      "JavaFX",
+      "Linux (CLI, networking, permissions basics)"
+    ]
 }
 ```
 
