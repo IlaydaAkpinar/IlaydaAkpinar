@@ -23,7 +23,7 @@ Through university I've been part of team projects where security was a central 
 
 ## `> ls ./projects`
 
-### [Safe Code Assistant](https://gitlab.mi.hdm-stuttgart.de/ia023/safe-code-assistant) — Java Web Application *(5th semester, team project)*
+### [Safe Code Assistant](https://github.com/IlaydaAkpinar/Safe-Code-Assistant) — Java Web Application *(5th semester, team project)*
 
 A web app that scans code for common security vulnerabilities. Built together with fellow students as part of our coursework. It uses a rule-based approach to flag issues like SQL Injection, Security Misconfiguration, and Cryptographic Failures, and an AI-assisted component for more complex cases like SSRF and Broken Access Control.
 
