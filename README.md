@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Ilayda</h1>
 
-<p><b>Media Informatics student @<a href="https://hdm-stuttgart.de/studienangebot/bachelor/medieninformatik/">HdM Stuttgart</a></b> · interested in IT security & penetration testing</p>
+<p><b>Media Informatics student @<a href="https://hdm-stuttgart.de/studienangebot/bachelor/medieninformatik/">HdM Stuttgart</a></b> · interested in cybersecurity</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilayda%20Akpinar-0A66C2?style=flat-square&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ilayda-akpinar/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-IlaydaAkpinar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IlaydaAkpinar/IlaydaAkpinar)&nbsp;&nbsp;
@@ -29,15 +29,13 @@ A small banking web application built to explore and practice secure web develop
 
 The project serves as a hands-on learning environment for independently exploring common web security vulnerabilities, testing different security measures, and continuously improving the application's security through additional features and security-focused tests.
 
-*still in development*
+*Still in acrive development*
 
 ---
 
 ### [Safe Code Assistant](https://github.com/IlaydaAkpinar/Safe-Code-Assistant) — Java Web Application *(5th semester, team project)*
 
 A web app that scans code for common security vulnerabilities. Built together with fellow students as part of our coursework. It uses a rule-based approach to flag issues like SQL Injection, Security Misconfiguration, and Cryptographic Failures, and an AI-assisted component for more complex cases like SSRF and Broken Access Control.
-
-*Still in active development*
 
 ---
 
